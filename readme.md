@@ -1,6 +1,14 @@
 # AC Notifications (vue-ac-notifications)
-
 **vue-ac-notifications** is a plugin for show UI notifications.
+
+### Demo
+https://dist-fltukrcrdr.now.sh/#/
+
+### TODO
+- Animations
+- Personalization
+- Better documentation
+- More examples
 
 ### Install it
 ```console
