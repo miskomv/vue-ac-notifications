@@ -3,12 +3,12 @@
 **vue-ac-notifications** is a plugin for show UI notifications.
 
 ### Install it
-```shell script
+```console
 npm install vue-ac-notifications
 ``` 
 
 ### Enable it
-```vue
+```javascript
 import Vue from "vue";
 import AcNotifications from 'vue-ac-notifications';
 Vue.use(AcNotifications);
