@@ -3,7 +3,7 @@
 **vue-ac-notifications** is a plugin for show UI notifications.
 
 ### Install it
-```zsh
+```console
 npm install vue-ac-notifications
 ``` 
 
